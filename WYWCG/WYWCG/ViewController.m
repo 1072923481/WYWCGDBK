@@ -17,12 +17,22 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"123123123");
-    // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"123123123");
+    NSLog(@"123123123");
+    NSLog(@"123123123");
+    NSLog(@"123123123");
+    NSLog(@"123123123");
+    NSLog(@"123123123");
+    NSLog(@"123123123");
+    NSLog(@"123123123");
+    NSLog(@"123123123");
+    NSLog(@"123123123");
+
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+
 }
 
 @end
